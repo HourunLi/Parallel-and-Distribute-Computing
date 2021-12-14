@@ -5,7 +5,7 @@
 > peak: 130 TFLOPS/s
 
 ## Test Result
-|     数据集      |    N    |   NNZ    | GFLOPS(Naive) | GFLOPS(Optimized) |
+|     Dataset     |    N    |   NNZ    | GFLOPS(Naive) | GFLOPS(Optimized) |
 | :-------------: | :-----: | :------: | :-----------: | :---------------: |
 | Ga41As41H72.mtx | 268096  | 18488476 |   49.741045   |    119.624048     |
 | Si41Ge41H72.mtx | 185639  | 15011265 |   43.303971   |    127.272708     |
