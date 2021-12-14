@@ -1,9 +1,10 @@
-# 实验环境
+# SpMV CSR
+# Environment
 > TITAN RTX
 > 
 > peak: 130 TFLOPS/s
 
-# 测试结果
+# Test Result
 |     数据集      |    N    |   NNZ    | GFLOPS(Naive) | GFLOPS(Optimized) |
 | :-------------: | :-----: | :------: | :-----------: | :---------------: |
 | Ga41As41H72.mtx | 268096  | 18488476 |   49.741045   |    119.624048     |
