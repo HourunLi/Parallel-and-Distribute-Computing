@@ -5,7 +5,7 @@
 > peak: 36 TFLOPS/s
 
 ## Test Result
-| 矩阵大小/算法/GLOPS | CUDA_NAIVE | CUDA_BLOCK  | CUDA_VECTOR | CUDA_CUBLAS |
+| Matrix Size/Algorithm/GLOPS | CUDA_NAIVE | CUDA_BLOCK  | CUDA_VECTOR | CUDA_CUBLAS |
 | ------------------- | ---------- | ----------- | ----------- | ----------- |
 | 512                 | 404.767007 | 819.432247  | 773.176697  | 1190.420709 |
 | 1024                | 589.225739 | 789.136083  | 2715.956837 | 2998.401882 |
