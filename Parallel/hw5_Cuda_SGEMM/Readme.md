@@ -1,5 +1,5 @@
 # 实验环境
-> NVIDIA GeForce RTX 3090  
+> NVIDIA GeForce RTX 3090
 > peak : 36 TFLOPS/s
 
 # 测试结果
