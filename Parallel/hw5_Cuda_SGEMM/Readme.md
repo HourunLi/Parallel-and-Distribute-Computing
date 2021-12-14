@@ -1,6 +1,6 @@
 # 实验环境
 > NVIDIA GeForce RTX 3090
-> peak : 36 TFLOPS/s
+> peak: 36 TFLOPS/s
 
 # 测试结果
 | 矩阵大小/算法/GLOPS | CUDA_NAIVE | CUDA_BLOCK  | CUDA_VECTOR | CUDA_CUBLAS |
