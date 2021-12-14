@@ -1,6 +1,6 @@
 # 实验环境
 > TITAN RTX
-> peak: 130 TFLOPS/S
+> peak: 130 TFLOPS/s
 
 # 测试结果
 |     数据集      |    N    |   NNZ    | GFLOPS(Naive) | GFLOPS(Optimized) |
